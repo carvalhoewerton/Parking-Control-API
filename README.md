@@ -1,1 +1,1 @@
-Pequena API de vagas de estacionamento utilizando Java + Spring Boot e Postgre.
+Pequena API de gerenciamento de vagas de estacionamento utilizando Java + Spring Boot e Postgre.
